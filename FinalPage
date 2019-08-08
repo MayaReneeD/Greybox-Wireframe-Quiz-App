@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Office Quiz App</title>
+    <meta name="description" content="The Office Quiz">
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <div class="container">
+      <header role="banner">
+        <h1>You Finished!</h1>
+      </header>
+      <img class="irc_mi" src="https://i.pinimg.com/originals/36/bf/aa/36bfaa2c452ab127b393b8e40ab48c33.gif" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" alt="Image result for michael and erin dancing" width="400" height="195" style="" data-iml="1565233623561">
+        <div>
+          <p>Check out your Results</p>
+          <p>Final Score: X of Y points!</p>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
