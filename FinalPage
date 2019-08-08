@@ -16,7 +16,7 @@
         <div>
           <p>Check out your Results</p>
           <p>Final Score: X of Y points!</p>
-          <button onclick="location.href='startPage.html'">Start New Quiz!</button>
+          <button onclick="location.href='index.html'">Start New Quiz!</button>
         </div>
       </main>
     </div>
